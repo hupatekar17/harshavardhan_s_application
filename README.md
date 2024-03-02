@@ -83,8 +83,3 @@ Builds the app for production to the `build` folder.<br>
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time.
 
-## Installing a Dependency
-
-You can install any dependencies (for example, React Router) with `npm`:
-
-
