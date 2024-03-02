@@ -1,6 +1,4 @@
-## harshavardhan_s_application1
-
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+App is Deployed on the link: https://guileless-pavlova-c3da48.netlify.app/
 
 ## Description
 
